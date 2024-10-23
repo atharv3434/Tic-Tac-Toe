@@ -2,3 +2,6 @@
 
 
 Developing a Tic-Tac-Toe game using Javascript,HTML and CSS
+HTML
+CSS
+JS
